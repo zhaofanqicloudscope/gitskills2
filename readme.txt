@@ -4,3 +4,4 @@ master
 
 Create branch is quick and simple!
 feature1
+feature2
